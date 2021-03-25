@@ -1,0 +1,35 @@
+@font-face {
+          font-family: "Apfel";
+          src: url("https://monetworld2.web.app/fonts/Apfel/ApfelGrotezk/ApfelGrotezk-Regular.otf");
+          font-style: normal;
+          font-weight: 400;
+          font-display: swap;
+        }
+        @font-face {
+          font-family: "ApfelBrukt";
+          src: url("https://monetworld2.web.app/fonts/Apfel/ApfelGrotezk/ApfelGrotezk-RegularBrukt.otf");
+          font-style: normal;
+          font-weight: 400;
+          font-display: swap;
+        }
+        @font-face {
+          font-family: "HobeauxLight";
+          src: url("https://monetworld2.web.app/fonts/Hobeaux/Hobeaux/Hobeaux.ttf");
+          font-style: light;
+          font-weight: 200;
+          font-display: swap;
+        }
+        @font-face {
+          font-family: "CooperNouveau";
+          src: url("https://monetworld2.web.app/fonts/CooperNouveau/CooperNouveau/CooperNouveau.ttf");
+          font-style: normal;
+          font-weight: 400;
+          font-display: swap;
+        }
+        @font-face {
+          font-family: "PangramExtraLight";
+          src: url("https://monetworld2.web.app/fonts/Pangram/Pangram/Pangram-ExtraLight.otf");
+          font-style: light;
+          font-weight: 200;
+          font-display: swap;
+        }
